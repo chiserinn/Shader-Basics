@@ -4,7 +4,7 @@ using System.Drawing;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class Graph : MonoBehaviour
+public class Graph:MonoBehaviour
 {
     [SerializeField]
     Transform pointPrefab;

@@ -35,7 +35,7 @@ public class Expanded_Functions : MonoBehaviour
     //B
     //C
     //D
-
+    //there's that one function that was like sin (w (period +t) i think.. 
     
 
     Transform[] points;
@@ -81,7 +81,7 @@ public class Expanded_Functions : MonoBehaviour
             }
             else
             {
-                Debug.Log("Error")
+                Debug.Log("Error");
             }
 
             //sin(pi*(x+t))
